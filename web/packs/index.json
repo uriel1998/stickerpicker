@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "blob.json",
+    "react.json",
+    "scalar-loading_artist.json"
+  ],
+  "homeserver_url": "https://matrix.faithcollapsing.com"
+}
